@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 190" width="1600" height="190" role="img">
+<defs>
+  <linearGradient id="fgr" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#0A1120"/><stop offset="1" stop-color="#04070F"/>
+  </linearGradient>
+  <linearGradient id="fshine" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+    <stop offset="0.5" stop-color="#fff" stop-opacity="0.8"/>
+    <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+  <mask id="fmask"><g transform="translate(681.136,116)"><g fill="#fff" opacity="1" ><path transform="translate(0.00,0) scale(0.05600,-0.05600)" d="M309 -14Q228 -14 166.0 15.0Q104 44 69.0 98.0Q34 152 34 228V256H164V228Q164 165 203.0 133.5Q242 102 309 102Q377 102 410.5 129.0Q444 156 444 198Q444 227 427.5 245.0Q411 263 379.5 274.5Q348 286 303 296L280 301Q208 317 156.5 341.5Q105 366 77.5 406.0Q50 446 50 510Q50 574 80.5 619.5Q111 665 166.5 689.5Q222 714 297 714Q372 714 430.5 688.5Q489 663 522.5 612.5Q556 562 556 486V456H426V486Q426 526 410.5 550.5Q395 575 366.0 586.5Q337 598 297 598Q237 598 208.5 575.5Q180 553 180 514Q180 488 193.5 470.0Q207 452 234.0 440.0Q261 428 303 419L326 414Q401 398 456.5 373.0Q512 348 543.0 307.0Q574 266 574 202Q574 138 541.5 89.5Q509 41 449.5 13.5Q390 -14 309 -14Z"/><path transform="translate(41.94,0) scale(0.05600,-0.05600)" d="M66 0V700H516V580H198V413H488V293H198V120H522V0Z"/><path transform="translate(80.96,0) scale(0.05600,-0.05600)" d="M18 0 202 700H432L616 0H480L442 154H192L154 0ZM223 276H411L326 617H308Z"/><path transform="translate(124.46,0) scale(0.05600,-0.05600)" d="M46 0V116H138V584H46V700H334Q475 700 548.5 628.5Q622 557 622 416V284Q622 143 548.5 71.5Q475 0 334 0ZM270 120H336Q416 120 453.0 162.0Q490 204 490 280V420Q490 497 453.0 538.5Q416 580 336 580H270Z"/><path transform="translate(169.76,0) scale(0.05600,-0.05600)" d="M66 0V700H198V0Z"/><path transform="translate(192.54,0) scale(0.05600,-0.05600)" d="M46 0V116H138V584H46V700H406Q470 700 517.5 678.5Q565 657 591.5 617.5Q618 578 618 523V513Q618 465 600.0 434.5Q582 404 557.5 387.5Q533 371 511 364V346Q533 340 559.0 323.5Q585 307 603.5 276.0Q622 245 622 195V185Q622 127 595.0 85.5Q568 44 520.5 22.0Q473 0 410 0ZM270 120H394Q437 120 463.5 141.0Q490 162 490 201V211Q490 250 464.0 271.0Q438 292 394 292H270ZM270 412H392Q433 412 459.5 433.0Q486 454 486 491V501Q486 539 460.0 559.5Q434 580 392 580H270Z"/></g></g></mask>
+  <filter id="gl6"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<rect width="1600" height="190" fill="url(#fgr)"/>
+<circle cx="800.0" cy="44" r="3.5" fill="#FFB454">
+  <animate attributeName="opacity" values="1;0.3;1" dur="2.6s" repeatCount="indefinite"/></circle>
+<circle cx="800.0" cy="44" r="9" fill="#FFB454" opacity="0.25" filter="url(#gl6)">
+  <animate attributeName="r" values="6;12;6" dur="2.6s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0.3;0.06;0.3" dur="2.6s" repeatCount="indefinite"/></circle>
+<g transform="translate(681.136,118)"><g fill="#FFB454" opacity="1" ><path transform="translate(0.00,0) scale(0.05600,-0.05600)" d="M309 -14Q228 -14 166.0 15.0Q104 44 69.0 98.0Q34 152 34 228V256H164V228Q164 165 203.0 133.5Q242 102 309 102Q377 102 410.5 129.0Q444 156 444 198Q444 227 427.5 245.0Q411 263 379.5 274.5Q348 286 303 296L280 301Q208 317 156.5 341.5Q105 366 77.5 406.0Q50 446 50 510Q50 574 80.5 619.5Q111 665 166.5 689.5Q222 714 297 714Q372 714 430.5 688.5Q489 663 522.5 612.5Q556 562 556 486V456H426V486Q426 526 410.5 550.5Q395 575 366.0 586.5Q337 598 297 598Q237 598 208.5 575.5Q180 553 180 514Q180 488 193.5 470.0Q207 452 234.0 440.0Q261 428 303 419L326 414Q401 398 456.5 373.0Q512 348 543.0 307.0Q574 266 574 202Q574 138 541.5 89.5Q509 41 449.5 13.5Q390 -14 309 -14Z"/><path transform="translate(41.94,0) scale(0.05600,-0.05600)" d="M66 0V700H516V580H198V413H488V293H198V120H522V0Z"/><path transform="translate(80.96,0) scale(0.05600,-0.05600)" d="M18 0 202 700H432L616 0H480L442 154H192L154 0ZM223 276H411L326 617H308Z"/><path transform="translate(124.46,0) scale(0.05600,-0.05600)" d="M46 0V116H138V584H46V700H334Q475 700 548.5 628.5Q622 557 622 416V284Q622 143 548.5 71.5Q475 0 334 0ZM270 120H336Q416 120 453.0 162.0Q490 204 490 280V420Q490 497 453.0 538.5Q416 580 336 580H270Z"/><path transform="translate(169.76,0) scale(0.05600,-0.05600)" d="M66 0V700H198V0Z"/><path transform="translate(192.54,0) scale(0.05600,-0.05600)" d="M46 0V116H138V584H46V700H406Q470 700 517.5 678.5Q565 657 591.5 617.5Q618 578 618 523V513Q618 465 600.0 434.5Q582 404 557.5 387.5Q533 371 511 364V346Q533 340 559.0 323.5Q585 307 603.5 276.0Q622 245 622 195V185Q622 127 595.0 85.5Q568 44 520.5 22.0Q473 0 410 0ZM270 120H394Q437 120 463.5 141.0Q490 162 490 201V211Q490 250 464.0 271.0Q438 292 394 292H270ZM270 412H392Q433 412 459.5 433.0Q486 454 486 491V501Q486 539 460.0 559.5Q434 580 392 580H270Z"/></g></g>
+<g mask="url(#fmask)">
+  <rect x="-260" y="40" width="200" height="120" fill="url(#fshine)" opacity="0.55">
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0;797.728 0;797.728 0" keyTimes="0;0.3;1" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</g>
+<text x="800.0" y="158" text-anchor="middle" font-family="'Noto Sans Bengali','Nirmala UI','Bangla Sangam MN','Hind Siliguri',sans-serif" font-size="20" fill="#93A0B8">ধন্যবাদ পড়ার জন্য</text>
+<text x="800.0" y="176" font-family="'Cascadia Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="11" font-weight="400" fill="#5B6B84" opacity="1" letter-spacing="2" text-anchor="middle">MADE BY HAND IN DHAKA · ADI.PRO.BD · © 2026</text>
+</svg>
